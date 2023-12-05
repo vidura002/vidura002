@@ -2,16 +2,17 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-Hey! I'm a 21-year-old undergraduate student at SLIIT Uni. Check out my wordpress profile..
+Hey! I'm a 21-year-old undergraduate student at SLIIT Uni ❤. Check out my wordpress profile..
 <a href="https://wordpress.com/home/vidura1.wordpress.com">Click Here!!</a>
 
 <br><br>
 
+---
+
 <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 <br><br>
----
-</a> playlists if you ❤ listening to music while you code.
+
 
 Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
 
