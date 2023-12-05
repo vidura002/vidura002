@@ -3,6 +3,9 @@
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vidura002&label=Profile%20views&color=0e75b6&style=flat" alt="vidura002" /> </p>
 <br><br>
+
+---
+
 - 🌱 I’m currently learning **JAVA**
 
 - 🌱 I’m currently learning **MERN**
