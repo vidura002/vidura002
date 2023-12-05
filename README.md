@@ -5,9 +5,10 @@
   <a href="https://www.facebook.com/thesaravanakumar" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127344027-e36cd957-8c9b-40f7-84ed-6da175648343.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/thesaravanakumar/" target="_blank"><img src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 Hey! I'm a 21-year-old undergraduate student at SLIIT Uni. Check out my wordpress profile..
-<a href="https://wordpress.com/home/vidura1.wordpress.com">
+<a href="https://wordpress.com/home/vidura1.wordpress.com">Click</a>
+
+<br><br>
 ---
-  <img alt="Saro's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> playlists if you ❤ listening to music while you code.
 
 Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
