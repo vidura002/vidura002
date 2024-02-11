@@ -27,7 +27,7 @@ Although I have a Computer Engineering background, Google and Stack Overflow des
 
 - 📫 How to reach me **vidurasnsilu2002@gmail.com**
 
-- ⚡ Fun fact **call me ass shadow**
+- ⚡ Fun fact **call me as shadow**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
