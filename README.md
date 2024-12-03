@@ -2,7 +2,7 @@
   
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-Hey! I'm a 21-year-old undergraduate student at SLIIT Uni ❤. Check out my wordpress profile..
+Hey! I'm a 23-year-old undergraduate student at SLIIT Uni ❤. Check out my wordpress profile..
 <a href="https://wordpress.com/home/vidura1.wordpress.com">Click Here!!</a>
 
 <br><br>
@@ -21,9 +21,9 @@ Although I have a Computer Engineering background, Google and Stack Overflow des
 
 ---
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DevOps**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **vidurasnsilu2002@gmail.com**
 
